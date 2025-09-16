@@ -19,7 +19,5 @@ npm start
 
 4. Open http://localhost:3000 in your browser
 
-## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](issues-link).
 
